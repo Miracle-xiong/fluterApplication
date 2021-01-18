@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:fluterApplication/other/other.dart';
+import 'package:fluterApplication/pages/other/other.dart';
 import 'package:flutter/material.dart';
 import '../other/other.dart';
 

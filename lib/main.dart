@@ -1,7 +1,7 @@
-import 'package:fluterApplication/bean/bean.dart';
-import 'package:fluterApplication/discovery/discovery.dart';
-import 'package:fluterApplication/index/index.dart';
-import 'package:fluterApplication/mine/mine.dart';
+import 'package:fluterApplication/pages/bean/bean.dart';
+import 'package:fluterApplication/pages/discovery/discovery.dart';
+import 'package:fluterApplication/pages/index/index.dart';
+import 'package:fluterApplication/pages/mine/mine.dart';
 import 'package:flutter/material.dart';
 
 // void main() {
